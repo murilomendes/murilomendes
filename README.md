@@ -1,6 +1,6 @@
 # Welcome to My GitHub Playground! 👋
 
-Hey there! I'm [seu_nome] 👨‍💻
+Hey there! I'm Murilo! 👨‍💻
 
 - 🚀 Exploring the realms of technology and music is my passion!
 - 🌱 Always striving to evolve and become a better version of myself every day.
